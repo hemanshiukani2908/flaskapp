@@ -1,3 +1,1 @@
 # flaskapp
-
-GIT, Docker Practice
