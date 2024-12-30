@@ -1,6 +1,6 @@
 FROM python
 RUN pip install flask
-RUN mkdir /app
+RUN mkdir 
 COPY hello.py /app/
-EXPOSE 5000
+EXPOSE 9000
 CMD [ "python","/app/hello.py" ]
